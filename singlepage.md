@@ -381,9 +381,9 @@ Successful extraction of both files demonstrates **absolute system compromise**:
 ---
 
 ## Vulnerability Chain Summary
-Passive OSINT ? Active Reconnaissance ? Service Enumeration ?
-Exploit Selection ? Root Access ? Credential Harvesting ?
-Offline Cracking ? Lateral Movement ? Persistence
+Passive OSINT > Active Reconnaissance > Service Enumeration >
+Exploit Selection > Root Access > Credential Harvesting >
+Offline Cracking > Lateral Movement > Persistence
 
 ## Key Takeaways
 
