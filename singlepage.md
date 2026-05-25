@@ -398,3 +398,17 @@ Offline Cracking ? Lateral Movement ? Persistence
 **Laboratory Completion Date**: May 25, 2026 | **Portfolio Version**: 1.0
 
 *End of Document*
+
+
+<br>
+
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    mediumZoom(document.querySelectorAll('img'), {
+      margin: 24,
+      background: 'rgba(0, 0, 0, 0.9)',
+      scrollOffset: 0
+    });
+  });
+</script>
