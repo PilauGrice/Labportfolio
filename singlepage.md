@@ -53,9 +53,8 @@ During initial deployment of Maltego on the Kali Linux platform, an upstream sig
 
 The security blockage was remediated by manually injecting the certified 2025 Kali keyserver token:
 
-\\\ash
+
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
-\\\
 
 ### Key Milestones
 
