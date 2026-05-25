@@ -72,7 +72,6 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 
 #### Intelligence Gathering Phases
 
-- ![Phase 1](images/2026-05-20-190853.png) - Initial Name Phrase Configuration
 - ![Phase 2](images/2026-05-20-192449.png) - Hierarchical Entity Mapping
 - ![Phase 3](images/2026-05-20-193625.png) - Cross-Reference Mapping
 - ![Phase 4](images/2026-05-20-193916.png) - Relationship Interconnection
