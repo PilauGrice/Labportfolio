@@ -24,19 +24,19 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 
 1. **APT Package Manager Keyring Error Verification**
    - System diagnostic logs tracking authentication blocks during repository indexing initialization
-   - *Screenshot: 2026-05-20 180258.jpg*
+   - ![APT Keyring Error](images/2026-05-20-180258.jpg)
 
 2. **Keyserver Cryptographic Token Import Validation**
    - Terminal stdout validating successful keyring signature injection
-   - *Screenshot: 2026-05-20 180737.png*
+   - ![Keyserver Token Import](images/2026-05-20-180737.png)
 
 3. **Successful Compilation of stable maltego_4.11**
    - Package unpacking trace verifying absolute library installation parameters
-   - *Screenshot: 2026-05-20 180923.jpg*
+   - ![Maltego Compilation](images/2026-05-20-180923.jpg)
 
 4. **Java Virtual Machine Environment Runtime Verification**
    - Console trace verifying active memory heap configuration boundaries at `/usr/lib/jvm/java-11-openjdk-amd64`
-   - *Screenshot: 2026-05-20 183420.jpg*
+   - ![JVM Environment](images/2026-05-20-183420.jpg)
 
 ---
 
@@ -49,78 +49,52 @@ A multi-tier open intelligence exploration loop was targeted at personal identif
 ### Intelligence Gathering Pipeline
 
 #### Phase 1: Initial Name Phrase Configuration
-- **Screenshot: 2026-05-20 190853.jpg** - Initial Name Phrase Phase-I Radial Link Configuration Array
-  - Tracking baseline website naming configurations and public text hits
+- ![Initial Name Phrase](images/2026-05-20-190853.jpg) - Tracking baseline website naming configurations and public text hits
 
 #### Phase 2: Hierarchical Entity Mapping
-- **Screenshot: 2026-05-20 192449.jpg** - Hierarchical Entity Tree Pivot Structural Mapping
-  - Sorting primary links into a structured organizational parent framework tree
+- ![Hierarchical Entity Tree](images/2026-05-20-192449.jpg) - Sorting primary links into a structured organizational parent framework tree
 
 #### Phase 3: Cross-Reference Mapping
-- **Screenshot: 2026-05-20 193625.jpg** - Peripheral Web Platform Cross-Reference Mapping Loop
-  - Identifying media and public news asset anchors linked to core target profiles
+- ![Cross-Reference Mapping](images/2026-05-20-193625.jpg) - Identifying media and public news asset anchors linked to core target profiles
 
 #### Phase 4: Relationship Interconnection
-- **Screenshot: 2026-05-20 193916.jpg** - Global Relationship Interconnection Overview Canvas
-  - Tracking shared infrastructure links bridging distinct entity groups
+- ![Relationship Interconnection](images/2026-05-20-193916.jpg) - Tracking shared infrastructure links bridging distinct entity groups
 
 #### Phase 5: Master Structural Verification
-- **Screenshot: 2026-05-20 194016.jpg** - Master Structural Verification Intelligence Map
-  - Full-canvas layout tracking complete threat mapping without direct server interaction
+- ![Master Structural Verification](images/2026-05-20-194016.jpg) - Full-canvas layout tracking complete threat mapping without direct server interaction
 
 ### High-Value Intelligence Extractions
 
 #### Domain & Email Harvesting
-- **Screenshot: 2026-05-20 194951.jpg** - High-Value Apex Domain Extraction Pass
+- ![Apex Domain Extraction](images/2026-05-20-194951.jpg) - High-Value Apex Domain Extraction Pass
   - Communication channels: `esther@paperstreet.es`, `aina@funicularfilms.com`
   - Core destination links: `www.marc-clotet.com`
 
 #### URL Parsing & Schema Resolution
-- **Screenshot: 2026-05-20 195129.jpg** - URL Parsing and Application Layer Object Resolution
-  - Programmatically transforming plain text elements into distinct web schema properties
+- ![URL Parsing](images/2026-05-20-195129.jpg) - Programmatically transforming plain text elements into distinct web schema properties
 
 #### Target Scope Boundary Locking
-- **Screenshot: 2026-05-20 195353.png** - Target Scope Asset Tracking and Boundary Locking
-  - Macro-zoom validation confirming strict target focus parameters on the canvas layout
+- ![Target Scope Locking](images/2026-05-20-195353.png) - Macro-zoom validation confirming strict target focus parameters
 
 ### Social Engineering Surface Mapping
-
-- **Screenshot: 2026-05-20 200019.jpg** - Passive Communication Endpoint Harvesting
-  - Extracting public personnel account schemas: `mo@un.com`, `t@ru.com`
-  - Mapping social engineering attack surfaces
+- ![Passive Communication Endpoint](images/2026-05-20-200019.jpg) - Extracting public personnel account schemas: `mo@un.com`, `t@ru.com`
 
 ### External Relationship Dependencies
-
-- **Screenshot: 2026-05-20 200320.jpg** - Media Framework Relationship Dependency Check
-  - Tracing external links referencing third-party production nodes (`www.formulatv.com`)
+- ![Media Framework Dependencies](images/2026-05-20-200320.jpg) - Tracing external links referencing third-party production nodes (`www.formulatv.com`)
 
 ### Geographic & Infrastructure Intelligence
-
-- **Screenshot: 2026-05-20 201446.jpg** - Geographic Asset Anchoring and Phone Registry Scraping
-  - Harvesting regional infrastructure endpoints: Spanish telecommunication markers (`+34 91...`)
+- ![Geographic Asset Anchoring](images/2026-05-20-201446.jpg) - Harvesting regional infrastructure endpoints: Spanish telecommunication markers (`+34 91...`)
 
 ### Historical Timeline Analysis
-
-- **Screenshot: 2026-05-20 201510.jpg** - Wayback Machine Historical Timeline Fan Grid Allocation
-  - Scraping archive snapshots from 2008 to 2014 to isolate legacy directory structures
+- ![Wayback Machine Timeline](images/2026-05-20-201510.jpg) - Scraping archive snapshots from 2008 to 2014 to isolate legacy directory structures
 
 ### Final Intelligence Canvas
-
-- **Screenshot: 2026-05-20 201630.jpg** - Completed Multi-Target Decade-Scale OSINT Canvas
-  - The finished passive intelligence profile covering ten years of data transitions
+- ![Decade-Scale OSINT Canvas](images/2026-05-20-201630.jpg) - Completed multi-target decade-scale OSINT canvas covering ten years of data transitions
 
 ### Inbound Web Entity Mapping (Funicular Films)
-
-- **Screenshot: 2026-05-20 202149.jpg** - Inbound Web Entity Relationship Mapping (Funicular Films Hub)
-  - Mapping core external dependencies: `wikipedia.org`, `variety.com`, `linkedin.com`
-
-- **Screenshot: 2026-05-20 203338.png** - Sub-Layer Content Mapping Tree
-  - Separating core routes into Home and About Us metadata blocks
-
-- **Screenshot: 2026-05-20 203528.jpg** - Master Funicular Films Structural Extraction Layout
-  - Final corporate mapping tracking stakeholders: Marc Clotet, Aina Clotet, Marta Baldo, Jan Andreu
-  - Regional offices: Barcelona, Sweden
-  - Timeline: Up to May 2026 Cannes Film Festival releases
+- ![Inbound Entity Mapping](images/2026-05-20-202149.jpg) - Mapping core external dependencies: `wikipedia.org`, `variety.com`, `linkedin.com`
+- ![Sub-Layer Content Mapping](images/2026-05-20-203338.png) - Separating core routes into Home and About Us metadata blocks
+- ![Funicular Films Extraction](images/2026-05-20-203528.jpg) - Final corporate mapping tracking stakeholders: Marc Clotet, Aina Clotet, Marta Baldo, Jan Andreu; Regional offices: Barcelona, Sweden
 
 ---
 
@@ -134,7 +108,7 @@ To validate Maltego's automated outputs, low-level shell diagnostics were execut
 whois hackthissite.org
 ```
 
-**Results** - *Screenshot: 2026-05-20 211734.jpg*
+**Results** - ![WHOIS Domain Info](images/2026-05-20-211734.jpg)
 - Domain creation index: 2003
 - Primary DNS routing arrays: Porkbun / buddyns
 
@@ -144,7 +118,7 @@ whois hackthissite.org
 dig hackthissite.org
 ```
 
-**Results** - *Screenshot: 2026-05-20 211840.png*
+**Results** - ![DNS Zone Info](images/2026-05-20-211840.png)
 - Perimeter load-balancing arrays: `137.74.187.100` through `137.74.187.104`
 
 ### RIR Netblock Allocation
@@ -153,12 +127,12 @@ dig hackthissite.org
 whois 137.74.187.100
 ```
 
-**Results** - *Screenshot: 2026-05-20 212100.jpg*
+**Results** - ![RIR Netblock](images/2026-05-20-212100.jpg)
 - RIPE NCC allocated `/16` network notation: `137.74.0.0/16`
 
 ### Upstream Service Provider Architecture
 
-**Results** - *Screenshot: 2026-05-20 212244.jpg*
+**Results** - ![Service Provider Architecture](images/2026-05-20-212244.jpg)
 - Physical hosting footprint: OVH facility block in Berlin, Germany (DE)
 
 ---

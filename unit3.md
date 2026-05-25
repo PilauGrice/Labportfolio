@@ -16,7 +16,7 @@ To ensure testing environment compatibility, kernel releases and build structure
 uname -a
 ```
 
-**Results** - *Screenshot: 2026-05-20 213617.jpg*
+**Results** - ![Ubuntu Gateway Profile](images/2026-05-20-213617.jpg)
 - **OS**: Ubuntu 26.04 LTS (Resolute Raccoon)
 - **Kernel**: Linux 7.0.0-14 generic kernel structure
 - **Verification**: Interface ens4 operational
@@ -27,7 +27,7 @@ uname -a
 uname -a
 ```
 
-**Results** - *Screenshot: 2026-05-20 213659.png*
+**Results** - ![Kali Linux Profile](images/2026-05-20-213659.png)
 - **OS**: Rolling Kali Linux build
 - **Base**: Debian 5.16.0 framework
 - **Status**: Active penetration testing platform
@@ -38,7 +38,7 @@ uname -a
 uname -a
 ```
 
-**Results** - *Screenshot: 2026-05-20 213843.png*
+**Results** - ![Metasploitable Profile](images/2026-05-20-213843.png)
 - **OS**: End-of-life Ubuntu 8.04 (Hardy)
 - **Kernel**: Outdated 32-bit Linux 2.6.24-16 server structure
 - **Note**: Running `cat /etc/os-release` returns an explicit error on legacy systems
@@ -49,7 +49,7 @@ uname -a
 cat /etc/lsb-release
 ```
 
-**Results** - *Screenshot: 2026-05-20 213952.png*
+**Results** - ![Legacy System Bypass](images/2026-05-20-213952.png)
 - Executing legacy path query successfully identifies OS despite system faults
 - Confirms end-of-life Ubuntu 8.04 (Hardy) distribution
 
@@ -61,7 +61,7 @@ cat /etc/lsb-release
 
 Modern system distributions deprecate `net-tools` configurations by default, causing standard `ifconfig` strings to return faults.
 
-**Screenshot: 2026-05-20 214025.png**
+**![ifconfig Error](images/2026-05-20-214025.png)**
 ```bash
 ifconfig
 ```
@@ -69,13 +69,13 @@ ifconfig
 
 ### Dependency Resolution
 
-**Screenshot: 2026-05-20 214042.png**
+**![Net-tools Installation](images/2026-05-20-214042.png)**
 ```bash
 sudo apt install net-tools
 ```
 - Manually updating dependencies to restore network analysis components
 
-**Screenshot: 2026-05-20 214110.png**
+**![Archive Verification](images/2026-05-20-214110.png)**
 ```bash
 ls /var/cache/apt/archives/
 ```
@@ -87,7 +87,7 @@ ls /var/cache/apt/archives/
 
 #### Ubuntu Gateway (Layer-3 Configuration)
 
-**Screenshot: 2026-05-20 214110.png**
+**![Ubuntu Gateway Config](images/2026-05-20-214110.png)**
 ```bash
 ifconfig ens4
 ```
@@ -97,7 +97,7 @@ ifconfig ens4
 
 #### Kali Attacker Platform (Layer-3 Configuration)
 
-**Screenshot: 2026-05-20 214152.png**
+**![Kali Attacker Config](images/2026-05-20-214152.png)**
 ```bash
 ifconfig eth0
 ```
@@ -107,7 +107,7 @@ ifconfig eth0
 
 #### Metasploitable Target (Layer-3 Configuration)
 
-**Screenshot: 2026-05-20 214210.png**
+**![Metasploitable Target Config](images/2026-05-20-214210.png)**
 ```bash
 ifconfig eth0
 ```
@@ -141,7 +141,7 @@ Test physical link limitations and transport layer limits using ICMP payload lim
 ping -M do -s 1472 192.168.122.108
 ```
 
-**Screenshot: 2026-05-20 214443.png**
+**![MTU Test Results](images/2026-05-20-214443.png)**
 
 ### Payload Calculation
 
@@ -171,7 +171,7 @@ Active network scanning shifted focus from infrastructure parameters to service-
 sudo nmap -sS -Pn 192.168.122.108
 ```
 
-**Screenshot: 2026-05-20 214530.jpg**
+**![Nmap SYN Sweep](images/2026-05-20-214530.jpg)**
 
 **Results**:
 - **Open Ports**: 23 discovered
@@ -188,7 +188,7 @@ sudo nmap -sS -Pn 192.168.122.108
 nc -nv 192.168.122.108 21
 ```
 
-**Screenshot: 2026-05-20 214757.png**
+**![Banner Grabbing](images/2026-05-20-214757.png)**
 
 **Technique**: Force clear-text application identification banners directly from raw socket connection
 
@@ -198,7 +198,7 @@ nc -nv 192.168.122.108 21
 sudo nmap -sV -p 21 192.168.122.108
 ```
 
-**Screenshot: 2026-05-20 214948.jpg**
+**![Version Fingerprinting](images/2026-05-20-214948.jpg)**
 
 **Results**:
 - **Service**: vsftpd (Very Secure FTP Daemon)
