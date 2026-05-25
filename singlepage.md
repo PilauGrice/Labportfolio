@@ -388,11 +388,11 @@ Offline Cracking ? Lateral Movement ? Persistence
 
 ## Key Takeaways
 
-* ? Version intelligence enables targeted exploitation  
-* ? File permissions are critical security boundaries  
-* ? Supply-chain attacks pose insidious threats  
-* ? Defense in depth is essential  
-* ? Incident response planning must be pre-planned  
+* Version intelligence enables targeted exploitation  
+* File permissions are critical security boundaries  
+* Supply-chain attacks pose insidious threats  
+* Defense in depth is essential  
+* Incident response planning must be pre-planned  
 
 ---
 
