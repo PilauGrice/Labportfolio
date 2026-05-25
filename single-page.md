@@ -59,7 +59,7 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 
 ### Key Milestones
 
-1. **APT Package Manager Keyring Error Verification** - ![APT Keyring Error](images/2026-05-20-180258.jpg)
+1. **APT Package Manager Keyring Error Verification** - ![APT Keyring Error](images/2026-05-20-180258.png)
 2. **Keyserver Cryptographic Token Import** - ![Keyserver Token](images/2026-05-20-180737.png)
 3. **Maltego 4.11 Compilation** - ![Maltego Compilation](images/2026-05-20-180923.jpg)
 4. **JVM Environment Verification** - ![JVM Environment](images/2026-05-20-183420.jpg)
