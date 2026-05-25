@@ -359,7 +359,7 @@ CVSS generates quantitative severity scores (0.0-10.0) based on technical charac
 
 ### FTP Version Criticality
 
-\sftpd 2.3.4\ was compromised in July 2011 with a supply-chain attack enabling immediate root access via smiley face trigger (\:\))\ in authentication attempts.
+sftpd 2.3.4 was compromised in July 2011 with a supply-chain attack enabling immediate root access via smiley face trigger (\:\))\ in authentication attempts.
 
 ### \/etc/passwd\ vs \/etc/shadow\
 
