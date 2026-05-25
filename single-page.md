@@ -46,68 +46,64 @@ The security blockage was bypass-remediated by manually injecting the certified 
 
 A multi-tier open intelligence exploration loop was targeted at personal identifiers (Aina Clotet, Marc Clotet) to expand initial names into corporate entities and infrastructure assets.
 
-#### Figure 1.5: Phase 1 — Initial Name Phrase Configuration
-![Figure 1.5](images/2026-05-20-190853.png)
-*Caption: Tracking baseline website naming configurations and public text hits.*
-
-#### Figure 1.6: Phase 2 — Hierarchical Entity Mapping
-![Figure 1.6](images/2026-05-20-192449.png)
+#### Figure 1.5: Phase 2 — Hierarchical Entity Mapping
+![Figure 1.5](images/2026-05-20-192449.png)
 *Caption: Sorting primary links into a structured organizational parent framework tree.*
 
-#### Figure 1.7: Phase 3 — Cross-Reference Mapping
-![Figure 1.7](images/2026-05-20-193625.png)
+#### Figure 1.6: Phase 3 — Cross-Reference Mapping
+![Figure 1.6](images/2026-05-20-193625.png)
 *Caption: Identifying media and public news asset anchors linked to the core target profiles.*
 
-#### Figure 1.8: Phase 4 — Relationship Interconnection
-![Figure 1.8](images/2026-05-20-193916.png)
+#### Figure 1.7: Phase 4 — Relationship Interconnection
+![Figure 1.7](images/2026-05-20-193916.png)
 *Caption: Tracking shared infrastructure links bridging distinct entity groups.*
 
-#### Figure 1.9: Phase 5 — Master Structural Verification
-![Figure 1.9](images/2026-05-20-194016.png)
+#### Figure 1.8: Phase 5 — Master Structural Verification
+![Figure 1.8](images/2026-05-20-194016.png)
 *Caption: Full-canvas layout tracking complete threat mapping without direct server interaction.*
 
-#### Figure 1.10: Apex Domain Harvesting
-![Figure 1.10](images/2026-05-20-194951.png)
+#### Figure 1.9: Apex Domain Harvesting
+![Figure 1.9](images/2026-05-20-194951.png)
 *Caption: Unmasking structural organization properties and core destination links (`www.marc-clotet.com`).*
 
-#### Figure 1.11: URL Parsing & Schema Resolution
-![Figure 1.11](images/2026-05-20-195129.png)
+#### Figure 1.10: URL Parsing & Schema Resolution
+![Figure 1.10](images/2026-05-20-195129.png)
 *Caption: Programmatically transforming plain text elements into distinct web schema properties.*
 
-#### Figure 1.12: Target Scope Boundary Locking
-![Figure 1.12](images/2026-05-20-195353.png)
+#### Figure 1.11: Target Scope Boundary Locking
+![Figure 1.11](images/2026-05-20-195353.png)
 *Caption: Macro-zoom validation confirming strict target focus parameters on the canvas layout.*
 
-#### Figure 1.13: Social Engineering & Communication Endpoint Mapping
-![Figure 1.13](images/2026-05-20-200019.png)
+#### Figure 1.12: Social Engineering & Communication Endpoint Mapping
+![Figure 1.12](images/2026-05-20-200019.png)
 *Caption: Extracting public personnel account schemas (`mo@un.com`, `t@ru.com`) to map social engineering attack surfaces.*
 
-#### Figure 1.14: External Relationship Dependencies
-![Figure 1.14](images/2026-05-20-200320.png)
+#### Figure 1.13: External Relationship Dependencies
+![Figure 1.13](images/2026-05-20-200320.png)
 *Caption: Tracing external links referencing third-party production nodes (`www.formulatv.com`).*
 
-#### Figure 1.15: Geographic Infrastructure Intelligence
-![Figure 1.15](images/2026-05-20-201446.png)
+#### Figure 1.14: Geographic Infrastructure Intelligence
+![Figure 1.14](images/2026-05-20-201446.png)
 *Caption: Harvesting regional infrastructure endpoints (`+34 91...` Spanish telecommunication markers).*
 
-#### Figure 1.16: Wayback Machine Historical Analysis Timeline
-![Figure 1.16](images/2026-05-20-201510.png)
+#### Figure 1.15: Wayback Machine Historical Analysis Timeline
+![Figure 1.15](images/2026-05-20-201510.png)
 *Caption: Scraping archive snapshots from 2008 to 2014 to isolate legacy directory structures.*
 
-#### Figure 1.17: Final Canvas — Decade-Scale OSINT Canvas
-![Figure 1.17](images/2026-05-20-201630.png)
+#### Figure 1.16: Final Canvas — Decade-Scale OSINT Canvas
+![Figure 1.16](images/2026-05-20-201630.png)
 *Caption: The finished passive intelligence profile covering ten years of data transitions.*
 
-#### Figure 1.18: Inbound Web Entity Mapping
-![Figure 1.18](images/2026-05-20-202149.png)
+#### Figure 1.17: Inbound Web Entity Mapping
+![Figure 1.17](images/2026-05-20-202149.png)
 *Caption: Mapping core external dependencies spanning `wikipedia.org`, `variety.com`, and `linkedin.com`.*
 
-#### Figure 1.19: Sub-Layer Content Structure Mapping Tree
-![Figure 1.19](images/2026-05-20-203338.png)
+#### Figure 1.18: Sub-Layer Content Structure Mapping Tree
+![Figure 1.18](images/2026-05-20-203338.png)
 *Caption: Separating core routes into Home and About Us metadata blocks.*
 
-#### Figure 1.20: Final Extraction — Funicular Films Mapping Canvas
-![Figure 1.20](images/2026-05-20-203528.png)
+#### Figure 1.19: Final Extraction — Funicular Films Mapping Canvas
+![Figure 1.19](images/2026-05-20-203528.png)
 *Caption: Final corporate mapping tracking stakeholders (Marc Clotet, Aina Clotet, Marta Baldó, Jan Andreu) and regional offices (Barcelona, Sweden) up to the recent May 2026 Cannes Film Festival releases.*
 
 ---
@@ -116,20 +112,20 @@ A multi-tier open intelligence exploration loop was targeted at personal identif
 
 To validate Maltego's automated outputs, low-level shell diagnostics were executed against `hackthissite.org` using standard query utilities.
 
-#### Figure 1.21: WHOIS Analysis Output
-![Figure 1.21](images/2026-05-20-211734.png)
+#### Figure 1.20: WHOIS Analysis Output
+![Figure 1.20](images/2026-05-20-211734.png)
 *Caption: Running `whois` commands to extract creation indices (2003) and primary DNS routing arrays (Porkbun / buddyns).*
 
-#### Figure 1.22: DNS Information Zone Resolution
-![Figure 1.22](images/2026-05-20-211840.png)
+#### Figure 1.21: DNS Information Zone Resolution
+![Figure 1.21](images/2026-05-20-211840.png)
 *Caption: Executing `dig` to unmask perimeter load-balancing arrays spanning `137.74.187.100` through `.104`.*
 
-#### Figure 1.23: RIR Netblock Allocation Check
-![Figure 1.23](images/2026-05-20-212100.png)
+#### Figure 1.22: RIR Netblock Allocation Check
+![Figure 1.22](images/2026-05-20-212100.png)
 *Caption: Tracing network ranges to a RIPE NCC allocated /16 network notation structure (`137.74.0.0/16`).*
 
-#### Figure 1.24: Upstream Service Provider Architecture Map
-![Figure 1.24](images/2026-05-20-212244.png)
+#### Figure 1.23: Upstream Service Provider Architecture Map
+![Figure 1.23](images/2026-05-20-212244.png)
 *Caption: Isolating physical hosting footprints down to an OVH facility block in Berlin, Germany (DE).*
 
 ---
