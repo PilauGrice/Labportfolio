@@ -72,34 +72,34 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 
 #### Intelligence Gathering Phases
 
-- ![Phase 1](images/2026-05-20-190853.jpg) - Initial Name Phrase Configuration
-- ![Phase 2](images/2026-05-20-192449.jpg) - Hierarchical Entity Mapping
-- ![Phase 3](images/2026-05-20-193625.jpg) - Cross-Reference Mapping
-- ![Phase 4](images/2026-05-20-193916.jpg) - Relationship Interconnection
-- ![Phase 5](images/2026-05-20-194016.jpg) - Master Structural Verification
+- ![Phase 1](images/2026-05-20-190853.png) - Initial Name Phrase Configuration
+- ![Phase 2](images/2026-05-20-192449.png) - Hierarchical Entity Mapping
+- ![Phase 3](images/2026-05-20-193625.png) - Cross-Reference Mapping
+- ![Phase 4](images/2026-05-20-193916.png) - Relationship Interconnection
+- ![Phase 5](images/2026-05-20-194016.png) - Master Structural Verification
 
 #### High-Value Extractions
 
-- ![Domain Harvesting](images/2026-05-20-194951.jpg) - Apex Domain Extraction
-- ![URL Parsing](images/2026-05-20-195129.jpg) - Schema Resolution
+- ![Domain Harvesting](images/2026-05-20-194951.png) - Apex Domain Extraction
+- ![URL Parsing](images/2026-05-20-195129.png) - Schema Resolution
 - ![Scope Locking](images/2026-05-20-195353.png) - Target Boundary Locking
-- ![Social Engineering](images/2026-05-20-200019.jpg) - Communication Endpoint Mapping
-- ![External Dependencies](images/2026-05-20-200320.jpg) - Relationship Dependencies
-- ![Geographic Intelligence](images/2026-05-20-201446.jpg) - Regional Infrastructure
-- ![Historical Analysis](images/2026-05-20-201510.jpg) - Wayback Machine Timeline
-- ![Final Canvas](images/2026-05-20-201630.jpg) - Decade-Scale OSINT Canvas
-- ![Entity Mapping](images/2026-05-20-202149.jpg) - Inbound Web Entities
+- ![Social Engineering](images/2026-05-20-200019.png) - Communication Endpoint Mapping
+- ![External Dependencies](images/2026-05-20-200320.png) - Relationship Dependencies
+- ![Geographic Intelligence](images/2026-05-20-201446.png) - Regional Infrastructure
+- ![Historical Analysis](images/2026-05-20-201510.png) - Wayback Machine Timeline
+- ![Final Canvas](images/2026-05-20-201630.png) - Decade-Scale OSINT Canvas
+- ![Entity Mapping](images/2026-05-20-202149.png) - Inbound Web Entities
 - ![Content Mapping](images/2026-05-20-203338.png) - Sub-Layer Structure
-- ![Final Extraction](images/2026-05-20-203528.jpg) - Funicular Films Mapping
+- ![Final Extraction](images/2026-05-20-203528.png) - Funicular Films Mapping
 
 ---
 
 ## Exercise 2.3: Pure Command-Line Terminal Reconnaissance
 
-### WHOIS Analysis - ![WHOIS](images/2026-05-20-211734.jpg)
+### WHOIS Analysis - ![WHOIS](images/2026-05-20-211734.png)
 ### DNS Resolution - ![DNS](images/2026-05-20-211840.png)
-### RIR Netblock - ![Netblock](images/2026-05-20-212100.jpg)
-### Service Provider - ![Provider](images/2026-05-20-212244.jpg)
+### RIR Netblock - ![Netblock](images/2026-05-20-212100.png)
+### Service Provider - ![Provider](images/2026-05-20-212244.png)
 
 ---
 
@@ -107,7 +107,7 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 
 ## Exercise 3.1: Machine Baseline Profiling
 
-- ![Ubuntu Gateway](images/2026-05-20-213617.jpg)
+- ![Ubuntu Gateway](images/2026-05-20-213617.png)
 - ![Kali Linux](images/2026-05-20-213659.png)
 - ![Metasploitable](images/2026-05-20-213843.png)
 - ![Legacy Bypass](images/2026-05-20-213952.png)
@@ -126,9 +126,9 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 
 ## Exercise 3.4: Port Scanning & Banner Grabbing
 
-- ![Nmap Sweep](images/2026-05-20-214530.jpg)
+- ![Nmap Sweep](images/2026-05-20-214530.png)
 - ![Banner Grabbing](images/2026-05-20-214757.png)
-- ![Version Fingerprinting](images/2026-05-20-214948.jpg)
+- ![Version Fingerprinting](images/2026-05-20-214948.png)
 
 ---
 
@@ -137,27 +137,27 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 ## Exercise 4.1: Metasploit Exploitation
 
 - ![Exploit Configuration](images/2026-05-20-215243.png)
-- ![Parameter Verification](images/2026-05-20-220544.jpg)
+- ![Parameter Verification](images/2026-05-20-220544.png)
 - ![Exploitation](images/2026-05-20-215400.png)
-- ![Passwd Extraction](images/2026-05-20-215536.jpg)
-- ![Shadow Extraction](images/2026-05-20-215550.jpg)
+- ![Passwd Extraction](images/2026-05-20-215536.png)
+- ![Shadow Extraction](images/2026-05-20-215550.png)
 - ![Session Stability](images/2026-05-20-215737.png)
 - ![Network Routing](images/2026-05-20-215902.png)
 - ![Lateral Movement](images/2026-05-20-220744.png)
 
 ## Exercise 4.2: Nessus Vulnerability Audit
 
-- ![Nessus Installation](images/2026-05-21-202131.jpg)
+- ![Nessus Installation](images/2026-05-21-202131.png)
 - ![Dependency Error](images/2026-05-20-220309.png)
 - ![Path Remediation](images/2026-05-20-220410.png)
 - ![Web Interface](images/2026-05-21-203718.png)
 - ![Licensing Portal](images/2026-05-21-203904.png)
 - ![Scope Definition](images/2026-05-21-205443.png)
 - ![Scan Progress](images/2026-05-21-205402.png)
-- ![Vulnerability Results](images/2026-05-21-210009.jpg)
+- ![Vulnerability Results](images/2026-05-21-210009.png)
 - ![Multi-Scan Tracking](images/2026-05-21-210419.png)
-- ![Common Ports Results](images/2026-05-21-210736.jpg)
-- ![All Ports Results](images/2026-05-21-215434.jpg)
+- ![Common Ports Results](images/2026-05-21-210736.png)
+- ![All Ports Results](images/2026-05-21-215434.png)
 
 ---
 
