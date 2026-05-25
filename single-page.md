@@ -47,31 +47,31 @@ The security blockage was bypass-remediated by manually injecting the certified 
 A multi-tier open intelligence exploration loop was targeted at personal identifiers (Aina Clotet, Marc Clotet) to expand initial names into corporate entities and infrastructure assets.
 
 #### Figure 1.5: Phase 1 — Initial Name Phrase Configuration
-![Figure 1.5](images/2026-05-20-190853.jpg)
+![Figure 1.5](images/2026-05-20-190853.png)
 *Caption: Tracking baseline website naming configurations and public text hits.*
 
 #### Figure 1.6: Phase 2 — Hierarchical Entity Mapping
-![Figure 1.6](images/2026-05-20-192449.jpg)
+![Figure 1.6](images/2026-05-20-192449.png)
 *Caption: Sorting primary links into a structured organizational parent framework tree.*
 
 #### Figure 1.7: Phase 3 — Cross-Reference Mapping
-![Figure 1.7](images/2026-05-20-193625.jpg)
+![Figure 1.7](images/2026-05-20-193625.png)
 *Caption: Identifying media and public news asset anchors linked to the core target profiles.*
 
 #### Figure 1.8: Phase 4 — Relationship Interconnection
-![Figure 1.8](images/2026-05-20-193916.jpg)
+![Figure 1.8](images/2026-05-20-193916.png)
 *Caption: Tracking shared infrastructure links bridging distinct entity groups.*
 
 #### Figure 1.9: Phase 5 — Master Structural Verification
-![Figure 1.9](images/2026-05-20-194016.jpg)
+![Figure 1.9](images/2026-05-20-194016.png)
 *Caption: Full-canvas layout tracking complete threat mapping without direct server interaction.*
 
 #### Figure 1.10: Apex Domain Harvesting
-![Figure 1.10](images/2026-05-20-194951.jpg)
+![Figure 1.10](images/2026-05-20-194951.png)
 *Caption: Unmasking structural organization properties and core destination links (`www.marc-clotet.com`).*
 
 #### Figure 1.11: URL Parsing & Schema Resolution
-![Figure 1.11](images/2026-05-20-195129.jpg)
+![Figure 1.11](images/2026-05-20-195129.png)
 *Caption: Programmatically transforming plain text elements into distinct web schema properties.*
 
 #### Figure 1.12: Target Scope Boundary Locking
@@ -79,27 +79,27 @@ A multi-tier open intelligence exploration loop was targeted at personal identif
 *Caption: Macro-zoom validation confirming strict target focus parameters on the canvas layout.*
 
 #### Figure 1.13: Social Engineering & Communication Endpoint Mapping
-![Figure 1.13](images/2026-05-20-200019.jpg)
+![Figure 1.13](images/2026-05-20-200019.png)
 *Caption: Extracting public personnel account schemas (`mo@un.com`, `t@ru.com`) to map social engineering attack surfaces.*
 
 #### Figure 1.14: External Relationship Dependencies
-![Figure 1.14](images/2026-05-20-200320.jpg)
+![Figure 1.14](images/2026-05-20-200320.png)
 *Caption: Tracing external links referencing third-party production nodes (`www.formulatv.com`).*
 
 #### Figure 1.15: Geographic Infrastructure Intelligence
-![Figure 1.15](images/2026-05-20-201446.jpg)
+![Figure 1.15](images/2026-05-20-201446.png)
 *Caption: Harvesting regional infrastructure endpoints (`+34 91...` Spanish telecommunication markers).*
 
 #### Figure 1.16: Wayback Machine Historical Analysis Timeline
-![Figure 1.16](images/2026-05-20-201510.jpg)
+![Figure 1.16](images/2026-05-20-201510.png)
 *Caption: Scraping archive snapshots from 2008 to 2014 to isolate legacy directory structures.*
 
 #### Figure 1.17: Final Canvas — Decade-Scale OSINT Canvas
-![Figure 1.17](images/2026-05-20-201630.jpg)
+![Figure 1.17](images/2026-05-20-201630.png)
 *Caption: The finished passive intelligence profile covering ten years of data transitions.*
 
 #### Figure 1.18: Inbound Web Entity Mapping
-![Figure 1.18](images/2026-05-20-202149.jpg)
+![Figure 1.18](images/2026-05-20-202149.png)
 *Caption: Mapping core external dependencies spanning `wikipedia.org`, `variety.com`, and `linkedin.com`.*
 
 #### Figure 1.19: Sub-Layer Content Structure Mapping Tree
@@ -107,7 +107,7 @@ A multi-tier open intelligence exploration loop was targeted at personal identif
 *Caption: Separating core routes into Home and About Us metadata blocks.*
 
 #### Figure 1.20: Final Extraction — Funicular Films Mapping Canvas
-![Figure 1.20](images/2026-05-20-203528.jpg)
+![Figure 1.20](images/2026-05-20-203528.png)
 *Caption: Final corporate mapping tracking stakeholders (Marc Clotet, Aina Clotet, Marta Baldó, Jan Andreu) and regional offices (Barcelona, Sweden) up to the recent May 2026 Cannes Film Festival releases.*
 
 ---
@@ -117,7 +117,7 @@ A multi-tier open intelligence exploration loop was targeted at personal identif
 To validate Maltego's automated outputs, low-level shell diagnostics were executed against `hackthissite.org` using standard query utilities.
 
 #### Figure 1.21: WHOIS Analysis Output
-![Figure 1.21](images/2026-05-20-211734.jpg)
+![Figure 1.21](images/2026-05-20-211734.png)
 *Caption: Running `whois` commands to extract creation indices (2003) and primary DNS routing arrays (Porkbun / buddyns).*
 
 #### Figure 1.22: DNS Information Zone Resolution
@@ -125,11 +125,11 @@ To validate Maltego's automated outputs, low-level shell diagnostics were execut
 *Caption: Executing `dig` to unmask perimeter load-balancing arrays spanning `137.74.187.100` through `.104`.*
 
 #### Figure 1.23: RIR Netblock Allocation Check
-![Figure 1.23](images/2026-05-20-212100.jpg)
+![Figure 1.23](images/2026-05-20-212100.png)
 *Caption: Tracing network ranges to a RIPE NCC allocated /16 network notation structure (`137.74.0.0/16`).*
 
 #### Figure 1.24: Upstream Service Provider Architecture Map
-![Figure 1.24](images/2026-05-20-212244.jpg)
+![Figure 1.24](images/2026-05-20-212244.png)
 *Caption: Isolating physical hosting footprints down to an OVH facility block in Berlin, Germany (DE).*
 
 ---
@@ -141,7 +141,7 @@ This phase covers setting up local testing infrastructure, profiling sandboxed m
 ## Exercise 3.1: Machine Baseline Profiling
 
 #### Figure 2.1: Ubuntu Gateway Node Interface Profile
-![Figure 2.1](images/2026-05-20-213617.jpg)
+![Figure 2.1](images/2026-05-20-213617.png)
 *Caption: Verifying an Ubuntu 26.04 LTS (Resolute Raccoon) environment running a Linux 7.0.0-14 generic kernel structure.*
 
 #### Figure 2.2: Local Kali Linux Attack Platform Verification
@@ -193,7 +193,7 @@ This phase covers setting up local testing infrastructure, profiling sandboxed m
 ## Exercise 3.4: Port Scanning & Banner Grabbing
 
 #### Figure 2.11: Nmap Stealth SYN Port Sweep Baseline
-![Figure 2.11](images/2026-05-20-214530.jpg)
+![Figure 2.11](images/2026-05-20-214530.png)
 *Caption: Executing `sudo nmap -sS -Pn 192.168.122.108` to discover 23 open ports, including ports 21 (ftp), 23 (telnet), 1524 (ingreslock), 6667 (irc), and 5900 (vnc).*
 
 #### Figure 2.12: Manual Interactive Socket Banner Grabbing
@@ -201,7 +201,7 @@ This phase covers setting up local testing infrastructure, profiling sandboxed m
 *Caption: Connecting via `nc -nv 192.168.122.108 21` to force clear-text application identification banners directly from the raw socket.*
 
 #### Figure 2.13: Automated Version Signature Fingerprinting Scan
-![Figure 2.13](images/2026-05-20-214948.jpg)
+![Figure 2.13](images/2026-05-20-214948.png)
 *Caption: Running targeted scanning flags (`-sV`) to programmatically isolate the listening application engine version as `vsftpd 2.3.4`.*
 
 ---
@@ -217,7 +217,7 @@ This phase documents targeted vulnerability verification through system exploita
 *Caption: Selecting `exploit/unix/ftp/vsftpd_234_backdoor` and mapping destination boundaries using `set rhosts 192.168.122.108`.*
 
 #### Figure 3.2: Exploit Parameter Options Verification Panel
-![Figure 3.2](images/2026-05-20-220544.jpg)
+![Figure 3.2](images/2026-05-20-220544.png)
 *Caption: Running `show options` to verify parameter matching configurations prior to execution.*
 
 #### Figure 3.3: Backdoor Exploitation Stream & Root Command Shell Injection
@@ -225,11 +225,11 @@ This phase documents targeted vulnerability verification through system exploita
 *Caption: Activating the exploit mechanism to trigger the system backdoor on Port 6200. Running `whoami` and `hostname` confirms root administrative ingestion.*
 
 #### Figure 3.4: Core User Account Database Exfiltration (`/etc/passwd`)
-![Figure 3.4](images/2026-05-20-215536.jpg)
+![Figure 3.4](images/2026-05-20-215536.png)
 *Caption: Reading the global account index payload (`cat /etc/passwd`) to extract plain-text user index profiles (msfadmin, postgres, tomcat55).*
 
 #### Figure 3.5: Cryptographic Shadow Password Hash Exfiltration (`/etc/shadow`)
-![Figure 3.5](images/2026-05-20-215550.jpg)
+![Figure 3.5](images/2026-05-20-215550.png)
 *Caption: Extracting protected cryptographic structures (`cat /etc/shadow`), lifting protected local administrative password hashes for downstream cracking reviews.*
 
 #### Figure 3.6: Multi-Command Session Stability Check
@@ -249,7 +249,7 @@ This phase documents targeted vulnerability verification through system exploita
 ## Exercise 4.2: Automated Vulnerability Auditing (Tenable Nessus)
 
 #### Figure 4.1: Debian Package Extraction and Local Cryptographic Integrity Check
-![Figure 4.1](images/2026-05-21-202131.jpg)
+![Figure 4.1](images/2026-05-21-202131.png)
 *Caption: Running `sudo dpkg -i Nessus.deb` to unpack binaries. The log records successful OpenSSL FIPS Known-Answer Tests across AES, SHA, and RSA components.*
 
 #### Figure 4.2: Package Manager Directory Tracking Path Error
@@ -277,7 +277,7 @@ This phase documents targeted vulnerability verification through system exploita
 *Caption: Tracking live vulnerability discoveries at early completion stages.*
 
 #### Figure 4.8: Nessus Live Severity Finding Index Table
-![Figure 4.8](images/2026-05-21-210009.jpg)
+![Figure 4.8](images/2026-05-21-210009.png)
 *Caption: Prioritized vulnerability table tracking manual verification targets, including UnrealIRCd (10.0) and VNC Default Passwords (10.0).*
 
 #### Figure 4.9: Folder Management Active Multi-Scan Tracking Panel
@@ -285,11 +285,11 @@ This phase documents targeted vulnerability verification through system exploita
 *Caption: Side-by-side execution monitoring tracking the Common Ports profile and the All Ports profile concurrently.*
 
 #### Figure 4.10: Finalized Common Ports Policy Summary Dashboard
-![Figure 4.10](images/2026-05-21-210736.jpg)
+![Figure 4.10](images/2026-05-21-210736.png)
 *Caption: The scan finished processing in 13 minutes and 4 seconds, identifying 70 total vulnerabilities via an uncredentialed network sweep profile.*
 
 #### Figure 4.11: Finalized All Ports Policy Summary Dashboard
-![Figure 4.11](images/2026-05-21-215434.jpg)
+![Figure 4.11](images/2026-05-21-215434.png)
 *Caption: Expanding the scan scope to all 65,535 ports increased processing duration to 17:41 but successfully uncovered 1 additional Critical vulnerability and 1 additional Medium vulnerability, raising the total threat footprint to 71 vulnerabilities.*
 
 ---
